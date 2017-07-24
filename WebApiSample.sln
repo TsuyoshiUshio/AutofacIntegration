@@ -14,4 +14,11 @@ Global
 		{3D0388AC-3A7C-4760-B66E-2A3F7C556CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D0388AC-3A7C-4760-B66E-2A3F7C556CEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+		$0.VersionControlPolicy = $3
+	EndGlobalSection
 EndGlobal
